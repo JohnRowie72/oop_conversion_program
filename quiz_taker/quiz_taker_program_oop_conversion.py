@@ -21,6 +21,7 @@ class QuizApp(tk.Tk):
         self.create_widgets()
         self.load_question()
 
+    @staticmethod
     def load_quiz_data(filename="quiz_storage.txt"):
         try:
             with open(filename, "r", encoding="utf-8") as file:
