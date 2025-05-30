@@ -1,0 +1,79 @@
+Question: What is the captial of Japan?
+[OPTIONS]
+option_a: Beijing
+option_b: Seoul
+option_c: Tokyo
+option_d: Bangkok
+Correct Answer: option_c
+
+Question: Which gas do plants abosorb from the atmosphere during photosynthesis?
+[OPTIONS]
+option_a: Oxygen
+option_b: Nitrogen
+option_c: Hydrogen
+option_d: Carbon Dioxide
+Correct Answer: option_d
+
+Question: Who developed the theory of relativity?
+[OPTIONS]
+option_a: Isaac Newton
+option_b: Galileo Galilei
+option_c: Albert Einstein
+option_d: Nikola Tesla
+Correct Answer: option_c
+
+Question: What is the main function of the CPU in a computer?
+[OPTIONS]
+option_a: store data
+option_b: display graphics
+option_c: perform calculations and execute instructions
+option_d: provide internet connection
+Correct Answer: option_c
+
+Question: Which of the following is a prime number?
+[OPTIONS]
+option_a: 12
+option_b: 17
+option_c: 21
+option_d: 25
+Correct Answer: option_b
+
+Question: What is the value of π (pi) rounded to three decimal places?
+[OPTIONS]
+option_a: 3.120
+option_b: 3.142
+option_c: 3.134
+option_d: 3.157
+Correct Answer: option_b
+
+Question: Which planet is known as the "Red Planet"?
+[OPTIONS]
+option_a: Venus
+option_b: Mars
+option_c: Jupiter
+option_d: Mercury
+Correct Answer: option_b
+
+Question: Who painted the Mona Lisa?
+[OPTIONS]
+option_a: Vincent van Gogh
+option_b: Leonardo da Vinci
+option_c: Pablo Picasso
+option_d: Claude Monet
+Correct Answer: option_b
+
+Question: What is the powerhouse of the cell?
+[OPTIONS]
+option_a: Nucleus
+option_b: Ribosome
+option_c: Mitochondrion
+option_d: Chloroplast
+Correct Answer: option_c
+
+Question: What is the square root of 144?
+[OPTIONS]
+option_a: 10
+option_b: 11
+option_c: 12
+option_d: 13
+Correct Answer: option_c
